@@ -1,0 +1,17 @@
+.main-header .logo {
+	font-family: "Century Gothic";
+	font-weight: bold;
+	font-size: 24px;
+}
+
+.box{
+	font-family: "Century Gothic";
+}
+
+.sidebar-menu{
+	font-family: "Century Gothic";	
+}
+
+.tab-pane{
+	text-align: center;
+}
